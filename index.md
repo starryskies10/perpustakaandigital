@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [A Gentle Reminder](ebook/A Gentle Reminder.pdf) – Bianca Sparacino (2020)
 8. [After Midnight](ebook/After Midnight.pdf) – Skysphire (2024)
 9. [Coretan Tanpa Warna](ebook/Coretan Tanpa Warna.pdf) – Esternawl (2022)
-10. [Menjahit Nama Dari Luka](ebook/Menjahit Nama Dari Luka.pdf) – Esternawl (2026)
+10. [Menjahit Nama dari Luka](ebook/Menjahit Nama dari Luka.pdf) – Esternawl (2026)
 11. [Rangkuman UGC_Transforming Libraries Through Information Technology](ebook/Rangkuman UGC_Transforming Libraries Through Information Technology.pdf) – Wilda Husna Maulida (2026)
     
 *Powered by GitHub Pages*
